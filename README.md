@@ -7,7 +7,7 @@ For this project I used two different kinds of datasets.
 
 **KKbox Data Source:** https://www.kaggle.com/competitions/kkbox-music-recommendation-challenge/data
 
-**Spotify Data Source:** https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset/data
+**Spotify Data Source:** https://www.kaggle.com/datasets/vatsalmavani/spotify-dataset
 
 ### Table of Contents
 
